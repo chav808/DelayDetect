@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# ✈️ Predicts delays based on wind speed.
 
 A simple Streamlit app template for you to modify!
 
